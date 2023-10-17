@@ -1,6 +1,6 @@
 # picsum_photos
 
-A new Flutter project.
+A minimalistic Flutter application that retrieves and displays high-resolution images from Picsum, demonstrating asynchronous data handling, network image retrieval, and dynamic grid-based UI rendering.
 
 ## Getting Started
 
